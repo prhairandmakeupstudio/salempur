@@ -1,0 +1,23 @@
+*{
+    font-family: serif;
+}
+.home{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.review{
+    height: 400px;
+    margin-bottom: 20px;
+    flex-direction: column;
+}
+.revimg,.but{
+    display: flex;
+    justify-content: center;
+}
+.but{
+    margin-top: 100px;
+}
+
+
